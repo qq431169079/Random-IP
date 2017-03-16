@@ -5,8 +5,10 @@ This is a program that will generate random IP addresses.
 
 flags:
 
--n number of addresses to be generated
+-n Generate n number of addresses.
 
--ipv6 generate ipv6 addresses
+-ipv6 Generate random ipv6 addresses.
 
--ipv4 generate random ipv4 addresses
+-ipv4 Generate random ipv4 addresses.
+
+-ro Print output raw
