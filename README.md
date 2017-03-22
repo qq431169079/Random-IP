@@ -12,3 +12,7 @@ flags:
 -ipv4 Generate random ipv4 addresses.
 
 -ro Print output raw
+
+# Installing
+
+Just run installl-ranip.sh and enter root password when prompted.
